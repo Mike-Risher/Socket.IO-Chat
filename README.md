@@ -1,0 +1,1 @@
+This is an extension of the getting started by building a chat application page on socket.io.  It does the first two suggested tasks.  (Adding a message when users connect/disconnect, and showing names.)
